@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef279faf-cfe2-4deb-a813-ac70a27853de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DrumKit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dog.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day2/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day2/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dog.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
