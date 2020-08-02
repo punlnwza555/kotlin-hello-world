@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef279faf-cfe2-4deb-a813-ac70a27853de" name="Default Changelist" comment="" />
+    <list default="true" id="ef279faf-cfe2-4deb-a813-ac70a27853de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DrumKit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day2/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day2/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -88,24 +95,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1595135822047">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1596342320564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595135822047" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1595135822047">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596342320564" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1596342320564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595135822047" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1595135822047">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596342320564" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1596342320564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595135822047" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1595135822047">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596342320564" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1596342320564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595135822047" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596342320564" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -119,5 +127,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day2$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1596335725446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
